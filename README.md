@@ -1,0 +1,1 @@
+Nesse projeto com a Hapvida NotreDame Intermedica, foram realizadas as seguintes atividades: desenvolvimento de um dispositivo destinado à medição da temperatura e umidade, implementação da conexão a um servidor IoT. O website inclui funcionalidades como sistema de logout, responsividade, sessionStorage e LocalStorage.
